@@ -71,7 +71,6 @@ freezegun==0.3.8
     # via -r requirements/base.in
 future==0.16.0
     # via
-    #   -r requirements/base.in
     #   cloudflare
 gitdb==4.0.10
     # via gitpython
